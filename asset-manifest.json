@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/apptry/static/css/main.3ff434e9.css",
+    "main.js": "/apptry/static/js/main.7c1f2098.js",
+    "static/js/787.a62db936.chunk.js": "/apptry/static/js/787.a62db936.chunk.js",
+    "static/media/flatwheel.jpg": "/apptry/static/media/flatwheel.c871aa1acd4ee82a864e.jpg",
+    "static/media/mainimg.jpeg": "/apptry/static/media/mainimg.2246d7537fd705252d6f.jpeg",
+    "static/media/applogo.jpg": "/apptry/static/media/applogo.898bf677be33fb362df3.jpg",
+    "static/media/fastm.jpg": "/apptry/static/media/fastm.c58a8a2a4dd74543de18.jpg",
+    "index.html": "/apptry/index.html",
+    "main.3ff434e9.css.map": "/apptry/static/css/main.3ff434e9.css.map",
+    "main.7c1f2098.js.map": "/apptry/static/js/main.7c1f2098.js.map",
+    "787.a62db936.chunk.js.map": "/apptry/static/js/787.a62db936.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ff434e9.css",
+    "static/js/main.7c1f2098.js"
+  ]
+}
